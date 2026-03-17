@@ -1,2 +1,2 @@
-vek = 18
-print (Je mi X let)
+vek = "18"
+print ("Je mi 18 let")
